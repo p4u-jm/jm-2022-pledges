@@ -20,8 +20,6 @@
 
 ## [더불어민주당 - 이재명 후보 공약](./theminjoo_board/000.md)
 
-![더불어민주당 - 이재명 후보 공약 이미지](./theminjoo_board/theminjoo_board.png)
-
 > https://theminjoo.kr/board/view/electionpromises 웹사이트의 내용을 모았습니다.
 
 * [이재명 후보 공약 목록](./theminjoo_board/000.md)
